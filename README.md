@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Sakeen 🦾🤖
+
+---
 
 <!--
 **keenzman/keenzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently:
+- 🌱 training to be a Junior Developer at _nology.io_
+- 📙 listening to _Pragmatic Programmer_ on Audible
+- 😁 living my best life
+
+---
+
+Please feel free to reach out 👊🏽
+
+<a href="https://www.linkedin.com/in/sakeen-zaman/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt="Linkedin icon"
+     style="float: left; margin-right: 10px;" />
+  </a>
+  
