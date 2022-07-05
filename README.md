@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 I'm currently:
-- 🌱 training to be a Junior Developer at _nology.io_
-- 📙 listening to _Pragmatic Programmer_ on Audible
+- 🌱 training to be a better Developer, one day at a time
+- 📙 listening to _The Obstacle Is The Way_ on Audible
 - 😁 living my best life
 
 ---
